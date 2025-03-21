@@ -14,24 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-GMail
-🐠 Base
-Network Security
-Chinese English 言語
-MBTI
-
-🚀 Technical
-Python JavaScript C++ C PHP GO
-React Vue.js Django
-MySQL ELK Stack
-
-🛠 Tools
-MacOS Arch Linux
-visual studio code Docker
-Adobe Lightroom Classic Adobe Photoshop Adobe Premiere Pro Final Cut Pro
+![Static Badge](https://img.shields.io/badge/industry:Cyber_Security)
 
 
-🔖 Doing @2025
- 继续坚持 Random 周刊 ≧(´▽｀)≦
- 站在历史和未来角度，深入我感兴趣的领域 (^▽^)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4mmyyy)
+
