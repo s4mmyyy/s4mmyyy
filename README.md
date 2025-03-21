@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="mailto:sammyLinsj#outlook.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=mailgun&logoColor=white"> </a>
+<a href="mailto:sammyLinsj#outlook.com"><img alt="Email" src="https://img.shields.io/badge/Outlook-66CCFF?style=flat&logo=mailgun&logoColor=white"> </a>
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/industry-Cyber_Secruity-blue">
